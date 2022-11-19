@@ -1,3 +1,4 @@
 # CPSC210-Labs
-UBC CPSC 210 Labs
-##Summer 2022 
+## UBC CPSC210 Lab1-Lab9
+
+Summer 2022 
